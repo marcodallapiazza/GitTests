@@ -19,6 +19,8 @@ testo 2
 testo 2
 testo 2
 
+riga aggiunta 006
+
 testo 2
 testo 2
 testo 2
