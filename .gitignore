@@ -20,3 +20,5 @@
 *.xcschememanagement.plist
 build-*
 .vs/
+
+configFile.txt
