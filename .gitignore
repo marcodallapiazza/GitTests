@@ -19,6 +19,6 @@
 *xcuserdata*
 *.xcschememanagement.plist
 build-*
-.vs/
 
+.vs/
 configFile.txt
